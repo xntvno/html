@@ -1,4 +1,5 @@
 <section>
     <article>Master 1</article>
 
+    <article>Feature 1</article>
 </section>
