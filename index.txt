@@ -3,5 +3,4 @@
     <article>Master 2</article>
 
     <article>Feature 1</article>
-    <article>Feature 2</article>
 </section>
